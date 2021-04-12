@@ -6,7 +6,7 @@
 
 ## Projeto
 
-- O projeto tem o objetivo de resolver os quatro exercícios propostos pela STIT Data de forma limpa e intuitiva.
+- O projeto tem como objetivo resolver os quatro exercícios propostos pela STIT Data, seguindo a premissa do clean code.
 
 
 ## Ferramentas
