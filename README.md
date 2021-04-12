@@ -9,12 +9,12 @@
 - O projeto tem como objetivo resolver os quatro exercícios propostos pela STIT Data, seguindo a premissa do clean code.
 
 
-## Ferramentas
+## Ferramenta
 
 - Python
 
 
-## Desenvolvedoras
+## Desenvolvedora
 
 - Bruna Cristina Torres
 
